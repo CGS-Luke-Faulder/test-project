@@ -30,6 +30,8 @@ class ViewController: UIViewController {
         
         //This is another comment for a for in loop
         for i in 0...10 {
+            
+            //Prints the value of i
             println(i)
         }
         
