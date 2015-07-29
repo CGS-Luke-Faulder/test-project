@@ -28,6 +28,7 @@ class ViewController: UIViewController {
     //Another line of code commented
     func featureY() {
         
+        //This is another comment for a for in loop
         for i in 0...10 {
             println(i)
         }
