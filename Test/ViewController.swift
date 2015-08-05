@@ -37,5 +37,12 @@ class ViewController: UIViewController {
         
     }
     
+    //A function
+    func featureQ() {
+        
+        println("Hello")
+        
+    }
+    
 }
 
