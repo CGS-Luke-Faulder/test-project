@@ -38,7 +38,7 @@ class ViewController: UIViewController {
     }
     
     //A function
-    func conflictingMasterBranch() {
+    func newFunctionCreated() {
         
         println("Hello")
         
