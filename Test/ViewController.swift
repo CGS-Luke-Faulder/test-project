@@ -38,7 +38,7 @@ class ViewController: UIViewController {
     }
     
     //A function
-    func featureQ() {
+    func awesomeFeatureAdded() {
         
         println("Hello")
         
